@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('build') {
         steps {
-            echo "Hello jdfnjhhbdjhb"
+            echo "Hello tfytf"
         }
     }
     stage('Snyk Test') {
